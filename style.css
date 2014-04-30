@@ -1,0 +1,10 @@
+body{
+	background-image: url("fondo.jpg");
+	}
+
+p{
+	font-size: 25px;
+	color: white;
+	font-family: Arial;
+	text-align: center;
+}
